@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.xrosstools</groupId>
     <artifactId>xpression</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>xross expression</name>
     <description>The runtime for xross expression</description>
     <url>https://github.com/hejiehui/xExpression/tree/master/com.xrosstools.xpression</url>
